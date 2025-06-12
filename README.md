@@ -48,7 +48,7 @@ task-tracker/
 
 1. Clone the repository:
    ```bash
-   [git clone https://github.com/your-username/task-tracker.git](https://github.com/MridulPathania01/Task-tracker-App.git)
+   git clone https://github.com/MridulPathania01/Task-tracker-App.git
    cd task-tracker
    ```
 
